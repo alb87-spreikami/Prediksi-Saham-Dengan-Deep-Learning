@@ -23,3 +23,8 @@ Supaya efektif dalam melakukan prediksi timeseries data, berikut saran dalam pem
 -	Karena hal diatas (point 2), perbanyak gunakan sequence layer LSTM atau GRU.
 
 Contoh penggunaan model deep learning yang disajikan pada recipro, model untuk memprediksi harga saham adaro. Variable exogenous yang digunakan antara lain timeseries market dalam hal ini IHSG, serta beberapa technical data yang diproses melalu library finta dan disimpan dalam excel. Technical data ini antara lain volume, RSI, EMA, Bollinger Bands, MACD, Williams.
+
+
+
+![scheme](https://user-images.githubusercontent.com/109791001/211237993-85f50d1e-81e7-4cc1-ad67-bab1031ffced.jpg)
+
